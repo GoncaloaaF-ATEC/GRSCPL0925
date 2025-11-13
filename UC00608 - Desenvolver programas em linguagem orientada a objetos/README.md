@@ -15,12 +15,15 @@
 
 ## Sessão 2 - 13/11/2025
 
-### 01_def
+### 02_def
 
 - def
+
+### 03_multiFiles
+
 - Multiplos ficheiros 
 
-### 03_collections
+### 04_collections
 
 - list
 - dict
