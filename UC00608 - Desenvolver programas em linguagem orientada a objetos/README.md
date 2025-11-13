@@ -9,8 +9,12 @@
 - var
 - in/out
 - condições
+  - if - elif - else
+  - match - case     
 - range
 - loops
+  - for
+  - while  
 
 
 ## Sessão 2 - 13/11/2025
